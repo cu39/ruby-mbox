@@ -1,0 +1,17 @@
+From - Thu Jan 25 20:54:37 2018
+Message-Id: <201801250310.w0P3AZ8P031291@example.com>
+Received: from ALPHA-SB (122x212x165x202.ap122.ftth.ucom.ne.jp [122.212.165.202])
+	by red-bear-1d2619711dde83c3.znlc.jp (Postfix) with ESMTPA id 527366E49
+	for <someone@example.jp>; Thu, 25 Jan 2018 12:10:35 +0900 (JST)
+From: Deep Meaning Quotes <deep-meaning-quotes@example.com>
+Subject: This mail has multi-line Subject header since
+ it's very very long
+To: someone@example.net
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+Reply-To: deep-meaning-quotes@example.com
+Date: Thu, 25 Jan 2018 12:10:34 +0900
+
+Penguins do not live in the North Pole.

@@ -44,16 +44,30 @@ class Mail
 
 		# headers parsing
 		current = ''
+		last = nil
 		begin
 			break if line.strip.empty?
 
 			current << line
+			line.match(/^([\w\-]+):\s*(.*)$/) do |m|
+				last = m[1]
+			end
 			if line[0..12] == "Delivered-To:"
 				metadata.parse_to line
 				next
 			end
 			if line[0..7] == "Subject:"
 				metadata.parse_subject line
+			end
+			if line[0] === " " || line[0] === "\t"
+				case last
+				when "Delivered-To"
+					metadata.append_to_to line
+				when "Subject"
+					metadata.append_to_subject line
+				else
+					# pass
+				end
 			end
 		end until input.eof? || (line = input.readline).match(options[:separator])
 		headers.parse(current)

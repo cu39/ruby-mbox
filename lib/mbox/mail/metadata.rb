@@ -33,15 +33,23 @@ class Metadata
 			@from << Struct.new(:name, :date).new(m[1], m[2])
 		end
 	end
+
 	def parse_to (line)
 		line.match /Delivered-To: (.*)/ do |m|
 			@to << m[1]
 		end
 	end
+	def append_to_to (line)
+		@to << line
+	end
+
 	def parse_subject (line)
-		line.match /Subject: (.*)/ do |m|
+		line.match /Subject:\s*(.*)/ do |m|
 			@subject << m[1]
 		end
+	end
+	def append_to_subject (line)
+		@subject << line
 	end
 end
 

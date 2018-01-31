@@ -1,0 +1,119 @@
+From - Thu Jan 25 20:54:37 2018
+Return-Path: <daemon@example.com>
+Received: from example.net (93.184.216.34)
+ by fsav404.sakura.ne.jp (F-Secure/fsigk_smtp/530/fsav404.sakura.ne.jp);
+ Thu, 25 Jan 2018 12:10:36 +0900 (JST)
+Received: from example.net (localhost [127.0.0.1])
+	by example.net (8.14.5/8.14.5) with ESMTP id w0P3AaJE031301
+	for <omeone@example.net>; Thu, 25 Jan 2018 12:10:36 +0900 (JST)
+	(envelope-from daemon@example.com)
+Received: from red-bear-1d2619711dde83c3.znlc.jp (red-bear-1d2619711dde83c3.znlc.jp [210.250.251.161])
+	by example.net (8.14.5/8.14.5) with ESMTP id w0P3AZ8P031291
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-CAMELLIA256-SHA bits=256 verify=NO)
+	for <someone@example.net>; Thu, 25 Jan 2018 12:10:36 +0900 (JST)
+	(envelope-from daemon@example.com)
+Message-Id: <201801250310.w0P3AZ8P031291@example.net>
+Received: from ALPHA-SB (122x212x165x202.ap122.ftth.ucom.ne.jp [122.212.165.202])
+	by red-bear-1d2619711dde83c3.znlc.jp (Postfix) with ESMTPA id 527366E49
+	for <someone@example.net>; Thu, 25 Jan 2018 12:10:35 +0900 (JST)
+From: =?ISO-2022-JP?B?GyRCMkZMXF57QFAbKEI=?= <daemon@example.com>
+Subject:
+ =?ISO-2022-JP?B?GyRCMmZHWiRPRy0kRyQiJGsbKEI=?=
+To: someone@example.net
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+Reply-To: daemon@example.com
+Date: Thu, 25 Jan 2018 12:10:34 +0900
+
+吾輩は猫である。名前はまだ無い。
+どこで生れたかとんと見当がつかぬ。
+何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。
+吾輩はここで始めて人間というものを見た。
+しかもあとで聞くとそれは書生という人間中で一番獰悪な種族であったそうだ。
+この書生というのは時々我々を捕えて煮て食うという話である。
+
+しかしその当時は何という考もなかったから別段恐しいとも思わなかった。
+ただ彼の掌に載せられてスーと持ち上げられた時
+何だかフワフワした感じがあったばかりである。
+
+From - Thu Jan 25 20:54:38 2018
+Return-Path: <daemon@example.com>
+Received: from example.net (93.184.216.34)
+ by fsav102.sakura.ne.jp (F-Secure/fsigk_smtp/530/fsav102.sakura.ne.jp);
+ Thu, 25 Jan 2018 12:31:16 +0900 (JST)
+Received: from example.net (localhost [127.0.0.1])
+	by example.net (8.14.5/8.14.5) with ESMTP id w0P3VGQh038267
+	for <someone@example.net>; Thu, 25 Jan 2018 12:31:16 +0900 (JST)
+	(envelope-from daemon@example.com)
+Received: from red-bear-1d2619711dde83c3.znlc.jp (red-bear-1d2619711dde83c3.znlc.jp [210.250.251.161])
+	by example.net (8.14.5/8.14.5) with ESMTP id w0P3VGcG038262
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-CAMELLIA256-SHA bits=256 verify=NO)
+	for <someone@example.net>; Thu, 25 Jan 2018 12:31:16 +0900 (JST)
+	(envelope-from daemon@example.com)
+Message-Id: <201801250331.w0P3VGcG038262@example.net>
+Received: from ALPHA-SB (122x212x165x202.ap122.ftth.ucom.ne.jp [122.212.165.202])
+	by red-bear-1d2619711dde83c3.znlc.jp (Postfix) with ESMTPA id 16FF349D2
+	for <someone@example.net>; Thu, 25 Jan 2018 12:31:16 +0900 (JST)
+From: =?ISO-2022-JP?B?GyRCMkZMXF57QFAbKEI=?= <daemon@example.com>
+Subject:
+ =?ISO-2022-JP?B?GyRCMmZHWiRPRy0kRyQiJGsbKEI=?=
+To: someone@example.net
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+Reply-To: daemon@example.com
+Date: Thu, 25 Jan 2018 12:31:15 +0900
+
+吾輩は猫である。名前はまだ無い。
+どこで生れたかとんと見当がつかぬ。
+何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。
+吾輩はここで始めて人間というものを見た。
+しかもあとで聞くとそれは書生という人間中で一番獰悪な種族であったそうだ。
+この書生というのは時々我々を捕えて煮て食うという話である。
+
+しかしその当時は何という考もなかったから別段恐しいとも思わなかった。
+ただ彼の掌に載せられてスーと持ち上げられた時
+何だかフワフワした感じがあったばかりである。
+
+From - Thu Jan 25 20:54:40 2018
+Return-Path: <daemon@example.com>
+Received: from example.net (93.184.216.34)
+ by fsav304.sakura.ne.jp (F-Secure/fsigk_smtp/530/fsav304.sakura.ne.jp);
+ Thu, 25 Jan 2018 18:11:43 +0900 (JST)
+Received: from example.net (localhost [127.0.0.1])
+	by example.net (8.14.5/8.14.5) with ESMTP id w0P9BhSp049280
+	for <someone@example.net>; Thu, 25 Jan 2018 18:11:43 +0900 (JST)
+	(envelope-from daemon@example.com)
+Received: from red-bear-1d2619711dde83c3.znlc.jp (red-bear-1d2619711dde83c3.znlc.jp [210.250.251.161])
+	by example.net (8.14.5/8.14.5) with ESMTP id w0P9BhN9049272
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-CAMELLIA256-SHA bits=256 verify=NO)
+	for <someone@example.net>; Thu, 25 Jan 2018 18:11:43 +0900 (JST)
+	(envelope-from daemon@example.com)
+Message-Id: <201801250911.w0P9BhN9049272@example.net>
+Received: from ALPHA-SB (122x212x165x202.ap122.ftth.ucom.ne.jp [122.212.165.202])
+	by red-bear-1d2619711dde83c3.znlc.jp (Postfix) with ESMTPA id 3A7676E49
+	for <someone@example.net>; Thu, 25 Jan 2018 18:11:42 +0900 (JST)
+From: =?ISO-2022-JP?B?GyRCMkZMXF57QFAbKEI=?= <daemon@example.com>
+Subject: =?ISO-2022-JP?B?IBskQjJmR1okTxsoQg==?=
+ =?ISO-2022-JP?B?GyRCRy0kRyQiJGsbKEI=?=
+To: someone@example.net
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="ISO-2022-JP"
+Content-Transfer-Encoding: 7bit
+Reply-To: daemon@example.com
+Date: Thu, 25 Jan 2018 18:11:39 +0900
+
+吾輩は猫である。名前はまだ無い。
+どこで生れたかとんと見当がつかぬ。
+何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。
+吾輩はここで始めて人間というものを見た。
+しかもあとで聞くとそれは書生という人間中で一番獰悪な種族であったそうだ。
+この書生というのは時々我々を捕えて煮て食うという話である。
+
+しかしその当時は何という考もなかったから別段恐しいとも思わなかった。
+ただ彼の掌に載せられてスーと持ち上げられた時
+何だかフワフワした感じがあったばかりである。
